@@ -65,7 +65,7 @@ The cloud big data processing market spans **managed Spark/Hadoop services** tha
 
 ## 🔓 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Apache Spark](https://github.com/apache/spark)** <a href="https://github.com/apache/spark/stargazers"><img src="https://img.shields.io/github/stars/apache/spark?style=social&color=white" alt="Apache Spark Stars"/></a> ⚡  
   **Unified analytics engine for large-scale data processing**, Apache-2.0 licensed. Batch processing, streaming, SQL, ML, and graph processing. Runs on Kubernetes, YARN, and standalone clusters. **The foundational processing engine for the entire ecosystem** — Amazon EMR, Databricks, Dataproc, and HDInsight all run Spark under the hood .
